@@ -5,5 +5,5 @@ This repository contains selected SQL queries, stored procedures, and analytics 
 Projects focus on:
 - Client activity reporting
 - Operational analytics
-- BI dashboard data preparation
+- Dashboard data preparation
 - SQL automation and stored procedures
